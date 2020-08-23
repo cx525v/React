@@ -1,0 +1,20 @@
+table tr td{
+  border: 1px solid;
+
+}
+
+table th {
+  border: 1px solid;
+  text-align: center;
+  background: lightgray;
+}
+
+table {
+  margin: 16px;
+}
+
+.shops {
+  text-align: center;
+  margin-top: 1em;
+  font-size: larger;
+}
